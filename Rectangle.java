@@ -1,3 +1,4 @@
+//creating a rectangle class and calculating area of rectangle 
 public class Rectangle {
     int length;
     int breadth;
