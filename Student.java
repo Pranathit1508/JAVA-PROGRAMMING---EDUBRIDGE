@@ -1,3 +1,4 @@
+//creating class student and assign different values to these objects
 public class Student {
     String name;
     int age;
